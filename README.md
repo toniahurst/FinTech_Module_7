@@ -10,23 +10,23 @@ In this example, we built a database and analyzed performance. Finally, we deplo
 
 ![Fig. 1](https://github.com/toniahurst/FinTech_Module_7_Challenge/blob/main/images/Fig.%201.png)
 
-## Fig. 2: 
+## Fig. 2: PYPL Daily Returns
 
 ![Fig. 2](https://github.com/toniahurst/FinTech_Module_7_Challenge/blob/main/images/Fig.%202.png)
 
-Fig. 3: 
+## Fig. 3: PYPL Table of Cumulative Returns
 
 ![Fig. 3](https://github.com/toniahurst/FinTech_Module_7_Challenge/blob/main/images/Fig.%203.png)
 
-Fig. 4: 
+## Fig. 4: PYPL Daily Returns
 
 ![Fig. 4](https://github.com/toniahurst/FinTech_Module_7_Challenge/blob/main/images/Fig.%204.png)
 
-Fig. 5: 
+## Fig. 5: Table of Daily Returns - GDOT, GS, PYPL, SQ
 
 ![Fig. 5](https://github.com/toniahurst/FinTech_Module_7_Challenge/blob/main/images/Fig.%205.png)
 
-Fig. 6:
+## Fig. 6: Cumulative Returns - ETF Portfolio (GDOT, GS, PYPL, SQ) 
 
 ![Fig. 6](https://github.com/toniahurst/FinTech_Module_7_Challenge/blob/main/images/Fig.%206.png)
 
