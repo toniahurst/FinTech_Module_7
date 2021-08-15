@@ -6,7 +6,7 @@ of researching and choosing a portfolio of assets.
 
 In this example, we built a database and analyzed performance. Finally, we deployed out notebook to a web app useing Voila.
 
-Fig. 1: 
+## Fig. 1: 
 
 ![Fig. 1](https://github.com/toniahurst/FinTech_Module_7_Challenge/blob/main/images/Fig.%201.png)
 
@@ -30,7 +30,7 @@ Fig. 6:
 
 ![Fig. 6](https://github.com/toniahurst/FinTech_Module_7_Challenge/blob/main/images/Fig.%206.png)
 
-To view a live video feed of this app, click this link
+To view a video feed of this app, click this link for a raw feed download. 
 
 ![video link]https://github.com/toniahurst/FinTech_Module_7_Challenge/blob/main/images/Screen%20Recording%202021-08-15%20at%2012.48.39%20PM.mov
 
