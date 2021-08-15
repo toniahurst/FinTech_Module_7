@@ -30,7 +30,7 @@ In this example, we built a database and analyzed performance. Finally, we deplo
 
 ![Fig. 6](https://github.com/toniahurst/FinTech_Module_7_Challenge/blob/main/images/Fig.%206.png)
 
-To view a video feed of this app, click this link for a raw feed download. 
+## Click this link for a raw feed download. 
 
 ![video link]https://github.com/toniahurst/FinTech_Module_7_Challenge/blob/main/images/Screen%20Recording%202021-08-15%20at%2012.48.39%20PM.mov
 
