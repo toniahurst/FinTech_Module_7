@@ -6,11 +6,11 @@ of researching and choosing a portfolio of assets.
 
 In this example, we built a database and analyzed performance. Finally, we deployed out notebook to a web app useing Voila.
 
-## Fig. 1: 
+## Fig. 1: Review the PYPL DataFrame
 
 ![Fig. 1](https://github.com/toniahurst/FinTech_Module_7_Challenge/blob/main/images/Fig.%201.png)
 
-Fig. 2: 
+## Fig. 2: 
 
 ![Fig. 2](https://github.com/toniahurst/FinTech_Module_7_Challenge/blob/main/images/Fig.%202.png)
 
